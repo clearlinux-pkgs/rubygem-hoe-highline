@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-highline
 Version  : 0.2.1
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/hoe-highline-0.2.1.gem
 Source0  : https://rubygems.org/downloads/hoe-highline-0.2.1.gem
 Summary  : No detailed summary available
@@ -61,20 +61,11 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/hoe-highline-0.2.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/Hoe/Highline/cdesc-Highline.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/Hoe/Highline/define_highline_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/Hoe/Highline/highline-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/Hoe/Highline/initialize_highline-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/Hoe/cdesc-Hoe.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/page-History_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-highline-0.2.1/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/ChangeLog
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/History.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-highline-0.2.1/lib/hoe/highline.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/hoe-highline-0.2.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/hoe-highline-0.2.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/ChangeLog
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/History.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-highline-0.2.1/lib/hoe/highline.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/hoe-highline-0.2.1.gemspec
